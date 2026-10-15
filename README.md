@@ -14,7 +14,7 @@ A Node.js command-line application that reads names from a text file, sorts them
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone YOUR-REPOSITORY-URL
+git clone https://github.com/arunimavs/name-sorter.git
 cd name-sorter
 ```
 
